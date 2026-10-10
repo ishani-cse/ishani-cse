@@ -51,28 +51,11 @@
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR-VERCEL-URL with your own deployed github-readme-stats URL (e.g. my-stats.vercel.app) -->
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=ishani-cse&background=000000&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280&border=1C2230" alt="Ishani's GitHub streak" width="100%">
 
-<img src="https://YOUR-VERCEL-URL/api?username=ishani-cse&show_icons=true&hide_rank=true&bg_color=000000&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA&border_color=1C2230" alt="Ishani's GitHub stats" width="49%">
-<img src="https://YOUR-VERCEL-URL/api/top-langs/?username=ishani-cse&layout=compact&bg_color=000000&title_color=22D3EE&text_color=E5E7EB&border_color=1C2230" alt="Ishani's top languages" width="49%">
 
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<!-- Add this block ONLY after the "Generate Snake" Action has run green once -->
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishani-cse/ishani-cse/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ishani-cse/ishani-cse/output/snake.svg" width="100%">
-</picture>
 </div>
 
 <br>
@@ -81,7 +64,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ishani-cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:ishanichoudharykkr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>
+<a href="https://www.linkedin.com/in/ishani-cse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:ishanichoudharykkr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"></a>&nbsp;&nbsp;
+<a href="https://portfolio-tau-five-8q4et1fmv6.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"></a>
 
 </div>
